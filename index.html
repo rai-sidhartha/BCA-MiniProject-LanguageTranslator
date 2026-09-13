@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Language Translator</title>
+</head>
+
+<body>
+
+    <header>
+        <span>Translator Home</span>
+        <nav>
+            <button>Language Translator</button>
+            <button>History</button>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Language Translator</h1>
+        <p>Translate Text quickly and easily</p>
+
+        <section class="language-selection">
+            <select id="sourceLanguage">
+                <option>English</option>
+                <option>Nepali</option>
+                <option>Hindi</option>
+            </select>
+
+            <span>→</span>
+
+            <select id="targetLanguage">
+                <option>Nepali</option>
+                <option>English</option>
+                <option>Hindi</option>
+            </select>
+        </section>
+
+        <textarea id="inputText" placeholder="Enter text to translate"></textarea>
+
+        <button id="translateButton">Translate</button>
+
+        <section class="translation-result">
+            <small>Translation</small>
+            <p id="translatedText">Your translated text will appear here</p>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

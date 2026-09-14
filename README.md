@@ -31,5 +31,4 @@ Language Translator is a web-based application that allows users to translate te
 
 Version 1.0.0 - Initial Development
 
-git checkout -b conflict-branch-b
-
+Conflict test: Branch A and Branch B resolved

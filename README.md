@@ -6,27 +6,29 @@ Language Translator is a web-based application that allows users to translate te
 
 ## Features
 
-- Text translation
-- Source language selection
-- Target language selection
-- Translated text output
-- Simple and user-friendly interface
-- Responsive design
+* Text translation
+* Source language selection
+* Target language selection
+* Translated text output
+* Simple and user-friendly interface
+* Responsive design
 
 ## Technology Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- Translation API
+* HTML5
+* CSS3
+* JavaScript
+* Translation API
 
 ## Team Members
 
-| Member | Role |
-|---|---|
-| Sidhartha Rai | Team Lead / Developer |
-| Team Member 2 | Developer / Tester |
+|Member|Role|
+|-|-|
+|Sidhartha Rai|Team Lead / Developer|
+|Team Member 2|Developer / Tester|
 
 ## Project Status
 
 Version 1.0.0 - Initial Development
+
+Conflict test: Branch A and Branch B resolved
